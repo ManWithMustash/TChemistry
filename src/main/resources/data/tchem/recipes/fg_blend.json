@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tchem:gold_dust"
+  },
+  "addition": {
+    "item": "tchem:ferrite_dust"
+  },
+  "result": {
+    "item": "tchem:fg_blend"
+  }
+}
